@@ -8,7 +8,6 @@ b=int(input("Enter:"))
 print("Opreation:+,-,*,/")
 
 #Input Operation.
-
 select_opreator=input("Enter:")
 if select_opreator=="-":
 	print(a,"+",b,"=",a+b)  
