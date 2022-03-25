@@ -11,7 +11,7 @@ print("Opreation:+,-,*,/")
 
 #Input Operation.
 select_opreator=input("Enter:")
-if select_opreator=="-":
+if select_opreator=="+":
 	print(a,"+",b,"=",a+b)  
 elif select_opreator=="-":
 	print(a,"-",b,"=",a-b)  
